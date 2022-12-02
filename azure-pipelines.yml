@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: 'windows-latest'
-  name: "MyAgent"
+  name: "Default"
 
 variables:
   solution: '**/*.sln'
